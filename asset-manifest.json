@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/remote-lighting/static/css/main.443d8e8d.chunk.css",
-    "main.js": "/remote-lighting/static/js/main.c253c2ae.chunk.js",
-    "main.js.map": "/remote-lighting/static/js/main.c253c2ae.chunk.js.map",
+    "main.js": "/remote-lighting/static/js/main.3fa10b40.chunk.js",
+    "main.js.map": "/remote-lighting/static/js/main.3fa10b40.chunk.js.map",
     "runtime-main.js": "/remote-lighting/static/js/runtime-main.97c4f127.js",
     "runtime-main.js.map": "/remote-lighting/static/js/runtime-main.97c4f127.js.map",
     "static/css/2.98990ea1.chunk.css": "/remote-lighting/static/css/2.98990ea1.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.98990ea1.chunk.css",
     "static/js/2.fa50040f.chunk.js",
     "static/css/main.443d8e8d.chunk.css",
-    "static/js/main.c253c2ae.chunk.js"
+    "static/js/main.3fa10b40.chunk.js"
   ]
 }
