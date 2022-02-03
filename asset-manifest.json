@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/remote-lighting/static/css/main.468536a7.chunk.css",
-    "main.js": "/remote-lighting/static/js/main.7d3f56ea.chunk.js",
-    "main.js.map": "/remote-lighting/static/js/main.7d3f56ea.chunk.js.map",
+    "main.css": "/remote-lighting/static/css/main.e8d8e1f6.chunk.css",
+    "main.js": "/remote-lighting/static/js/main.00d2522f.chunk.js",
+    "main.js.map": "/remote-lighting/static/js/main.00d2522f.chunk.js.map",
     "runtime-main.js": "/remote-lighting/static/js/runtime-main.97c4f127.js",
     "runtime-main.js.map": "/remote-lighting/static/js/runtime-main.97c4f127.js.map",
     "static/css/2.6974d8a1.chunk.css": "/remote-lighting/static/css/2.6974d8a1.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.c8e20e58.chunk.js.map": "/remote-lighting/static/js/3.c8e20e58.chunk.js.map",
     "index.html": "/remote-lighting/index.html",
     "static/css/2.6974d8a1.chunk.css.map": "/remote-lighting/static/css/2.6974d8a1.chunk.css.map",
-    "static/css/main.468536a7.chunk.css.map": "/remote-lighting/static/css/main.468536a7.chunk.css.map",
+    "static/css/main.e8d8e1f6.chunk.css.map": "/remote-lighting/static/css/main.e8d8e1f6.chunk.css.map",
     "static/js/2.7bdc3237.chunk.js.LICENSE.txt": "/remote-lighting/static/js/2.7bdc3237.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.97c4f127.js",
     "static/css/2.6974d8a1.chunk.css",
     "static/js/2.7bdc3237.chunk.js",
-    "static/css/main.468536a7.chunk.css",
-    "static/js/main.7d3f56ea.chunk.js"
+    "static/css/main.e8d8e1f6.chunk.css",
+    "static/js/main.00d2522f.chunk.js"
   ]
 }
